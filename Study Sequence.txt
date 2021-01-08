@@ -1,1 +1,6 @@
-공부 방향 
+공부 방향
+
+_Sample : 참고 자료
+Winform_Control : 제어 기능 수집 
+Winform_tool : Winform 기능 수집 
+  
